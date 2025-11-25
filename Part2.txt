@@ -1,0 +1,2 @@
+I used a personal computer to sign for part 1.
+For part 2 I am using hydra machine 14 in order to sign the commit.
